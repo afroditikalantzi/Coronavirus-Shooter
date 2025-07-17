@@ -16,7 +16,7 @@ Coronavirus Shooter reimagines the classic 2D space shooter genre with a pandemi
 
 ## Play the Game
 
-**[Play Coronavirus Shooter Online](https://nightdragon2000.github.io/Coronavirus_Shooter/)**
+**[Play Coronavirus Shooter Online](https://nightdragon2000.github.io/Coronavirus-Shooter/)**
 
 **Note:** Due to a bug, it is recommended to play the game in fullscreen mode for the best experience.
 
