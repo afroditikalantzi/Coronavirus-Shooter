@@ -6,13 +6,15 @@ Coronavirus Shooter reimagines the classic 2D space shooter genre with a pandemi
 
 ## Screenshots
 
-### Start Screen
-![Start Screen](images/Starting_Image.png)
-*Store frontend showcasing the elegant design and product display*
+<div align="center">
+  <img src="images/Starting_Image.png" alt="Start Screen" width="45%" />
+  <img src="images/Gameplay.png" alt="Gameplay" width="45%" />
+</div>
 
-### Gameplay
-![Gameplay](images/Gameplay.png)
-*Admin dashboard with product management interface*
+<p align="center">
+  <em>Start screen and gameplay preview</em>
+</p>
+
 
 ## Play the Game
 
