@@ -6,7 +6,7 @@
 
 The game offers fluid controls, progressively challenging enemies, and a user-friendly interface—all presented with a stylized, health-themed visual design.
 
-**[Play Now – Launch the Game Online](https://nightdragon2000.github.io/Coronavirus-Shooter/)**
+**[Play Now – Launch the Game Online](https://afroditikalantzi.github.io/Coronavirus-Shooter/)**
 
 > *Note: For the best experience, it is recommended to play in fullscreen mode due to a known display bug.*
 
